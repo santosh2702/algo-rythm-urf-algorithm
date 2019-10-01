@@ -56,6 +56,9 @@ Clean example implementations of data structures and algorithms written in diffe
    * Udacity
       * [Computability, Complexity & Algorithms](https://www.udacity.com/course/computability-complexity-algorithms--ud061)
       * [Intro to algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
+   * Udemy
+      * [Python for Data Structures, Algorithms, and Interviews!](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/)
+      * [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/)
    * EdX
       * [Algorithms](https://www.edx.org/course/algorithms-iitbombayx-cs213-3x-0)
       * [Algorithms and data structures](https://www.edx.org/course/algorithms-data-structures-microsoft-dev285x)
